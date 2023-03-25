@@ -1,6 +1,6 @@
 body{
   font-family: 'Roboto', sans-serif;
-  max-width: 2700px;
+  max-width: 1700px;
   margin: 0 auto;
 }
 
@@ -25,15 +25,15 @@ main:after{
 
 
 .informacoes .logo{
-  max-width: 2700px;
+  max-width: 720px;
   margin-bottom: 0px;
 }
 
 .informacoes .descricao{
-  width: 36%;
-  font-size: 37px;
+  width: 40%;
+  font-size: 20px;
   color: #ccc4c4;
-  line-height: 37px;
+  line-height: 24px;
   text-align: justify;
   text-shadow: 2px 10px 10px black;
 }
@@ -76,7 +76,7 @@ main:after{
 }
 
 .menu-lateral .icone{
-  width: 45px;
+  width: 24px;
   filter: invert(1);
   transition: 0.3s ease-in-out;
 }
